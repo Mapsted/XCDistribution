@@ -3,7 +3,7 @@ import PackageDescription
 let package = Package(
     name: "MapstedAR",
     platforms: [
-        .iOS(.v12.3)
+        .iOS(.v13)
     ],
     products: [
         .library(
