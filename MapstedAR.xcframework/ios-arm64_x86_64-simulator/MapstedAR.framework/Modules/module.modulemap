@@ -1,0 +1,11 @@
+framework module MapstedAR {
+  umbrella header "MapstedAR.h"
+
+  export *
+  module * { export * }
+}
+
+module MapstedAR.Swift {
+    header "MapstedAR-Swift.h"
+    requires objc
+}
