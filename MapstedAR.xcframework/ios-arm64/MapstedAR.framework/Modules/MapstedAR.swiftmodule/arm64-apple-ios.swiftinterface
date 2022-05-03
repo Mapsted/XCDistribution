@@ -8,3 +8,8 @@ import _Concurrency
 public protocol ARApiInterface {
   func doSomething()
 }
+public class ARApiManager : MapstedAR.ARApiInterface {
+  public init()
+  public func doSomething()
+  @objc deinit
+}

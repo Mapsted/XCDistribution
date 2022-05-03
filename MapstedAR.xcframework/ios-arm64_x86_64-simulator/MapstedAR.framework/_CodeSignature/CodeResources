@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/MapstedAR.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		y4ooTN+tCLJpYVJW1O6v7zLSK6U=
+		IYE3OZWouDcXMRssGDUVmz+yO/I=
 		</data>
 		<key>Modules/MapstedAR.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		o6f2p0YHVqD61o6CuM0/HitBPfo=
+		XigveymzjoUyg1rNIs3d8r0SN6A=
 		</data>
 		<key>Modules/MapstedAR.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/MapstedAR.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rPfJIDdBIRMwVdfgwQZfwX7okyo=
+		VIh8i1kjPoYvlCKWGJQWOCWbP68=
 		</data>
 		<key>Modules/MapstedAR.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8SvFlsX/6D8iiGELPQauEsaISKs=
+		pzhTPNBB/c9CiHG0JZfhaJmbdmk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ha9AJYbfIHh9+CKGKmA0G9CgQZhKnvgCqYRMbY9/kq8=
+			GkUNFnW8zM/N+C6Gm9iQXngQ08xJmgrpEa7Vz4QkQlI=
 			</data>
 		</dict>
 		<key>Modules/MapstedAR.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aff3vEbMKclUtlIjypc8XrUAaBYMCuXlGJqFJG5ZBXU=
+			devyflls7CbZWf34SH15Qir3Iav1GqJ3plKf6XkqXXY=
 			</data>
 		</dict>
 		<key>Modules/MapstedAR.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xhaKCm3MuJSVRTC9UB0ZmkQMAITpC9u0bs5MlzWPjXk=
+			valH882rw5WOs3kBkbk4o4q+fiw78dOC0g7WJh8BEGo=
 			</data>
 		</dict>
 		<key>Modules/MapstedAR.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XrLRmgo5ZhFggVyzG2PnifpOefkCgOOw4g/cXW2tbv0=
+			HNLA8ZiPJoQUy4wW2OLVhnmT7HAKrtx8Z+n74jq9yoU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
